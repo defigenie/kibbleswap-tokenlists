@@ -1,6 +1,6 @@
 {
   "name": "Kibble Default",
-  "logoURI": "https://raw.githubusercontent.com/kibble-finance/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/defigenie/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png",
   "keywords": ["doge", "defi", "kibble", "woof woof"],
   "version": {
     "major": 1,
@@ -14,7 +14,7 @@
       "decimals": 18,
       "name": "Kibble",
       "symbol": "KIB",
-      "logoURI": "https://raw.githubusercontent.com/kibble-finance/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
     },
     {
       "chainId": 2000,
@@ -22,7 +22,7 @@
       "decimals": 18,
       "name": "Wrapped Doge",
       "symbol": "WDOGE",
-      "logoURI": "https://raw.githubusercontent.com/kibble-finance/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibble-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
     }
   ]
 }
