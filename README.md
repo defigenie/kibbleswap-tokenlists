@@ -1,6 +1,6 @@
-# Kibble Tokenlists
+# KibbleSwap Tokenlists
 
-Tokenlists for [Kibble](https://www.kibble.dog/), the tastiest DEX on DogeChain.
+Tokenlists for [KibbleSwap](https://www.kibbleswap.dog/), the tastiest DEX on DogeChain.
 
 ## HOW TO ADD YOUR LOGO
 
@@ -25,4 +25,4 @@ Create an **issue** with the following info:
 ## HOW TO WHITELIST YOUR TOKEN
 
 - Tokens are whitelisted by the team based on market demand and other metrics
-- For a planned whitelisting (because of a new launch), you can contact us via [Telegram](https://t.me/Kibble)
+- For a planned whitelisting (because of a new launch), you can contact us via [Telegram](https://t.me/KibbleSwap)
