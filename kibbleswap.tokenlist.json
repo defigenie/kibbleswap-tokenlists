@@ -4,7 +4,7 @@
   "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -23,6 +23,38 @@
       "name": "WWrapped Doge",
       "symbol": "WWDOGE",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "decimals": 18,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+    },
+    {
+      "chainId": 40,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+    },
+    {
+      "chainId": 40,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
+    },
+    {
+      "chainId": 40,
+      "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+      "decimals": 8,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png"
     }
   ]
 }
