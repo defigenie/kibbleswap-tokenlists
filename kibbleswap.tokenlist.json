@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -33,7 +33,7 @@
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
     },
     {
-      "chainId": 40,
+      "chainId": 2000,
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "decimals": 6,
       "name": "USD Coin",
@@ -41,7 +41,7 @@
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
     },
     {
-      "chainId": 40,
+      "chainId": 2000,
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "decimals": 6,
       "name": "Tether USD",
@@ -49,7 +49,7 @@
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
     },
     {
-      "chainId": 40,
+      "chainId": 2000,
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "decimals": 8,
       "name": "Wrapped Bitcoin",
