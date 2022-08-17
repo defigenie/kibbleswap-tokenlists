@@ -1,6 +1,6 @@
 {
   "name": "KibbleSwap Default",
-  "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x1e1026ba0810e6391b0F86AFa8A9305c12713B66/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png",
   "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
   "version": {
     "major": 1,
@@ -20,8 +20,8 @@
       "chainId": 2000,
       "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "decimals": 18,
-      "name": "Wrapped Doge",
-      "symbol": "WDOGE",
+      "name": "WWrapped Doge",
+      "symbol": "WWDOGE",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
     }
   ]
