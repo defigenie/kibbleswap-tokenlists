@@ -1,6 +1,6 @@
 {
   "name": "KibbleSwap Default",
-  "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x4D7E06a090e87B9C6C19CC849A3B34F784863506/logo.png",
   "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
   "version": {
     "major": 1,
@@ -10,11 +10,11 @@
   "tokens": [
     {
       "chainId": 2000,
-      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "address": "0x4D7E06a090e87B9C6C19CC849A3B34F784863506",
       "decimals": 18,
       "name": "Kibble",
       "symbol": "KIB",
-      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x4D7E06a090e87B9C6C19CC849A3B34F784863506/logo.png"
     },
     {
       "chainId": 2000,
