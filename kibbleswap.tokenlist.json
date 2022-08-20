@@ -37,8 +37,16 @@
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "decimals": 6,
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "USDC.m",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x85C2D3bEBffD83025910985389aB8aD655aBC946",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC.s",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x85C2D3bEBffD83025910985389aB8aD655aBC946/logo.png"
     },
     {
       "chainId": 2000,
