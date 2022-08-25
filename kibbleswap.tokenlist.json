@@ -4,7 +4,7 @@
   "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -22,6 +22,14 @@
       "decimals": 18,
       "name": "Wrapped WDoge",
       "symbol": "WWDOGE",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+      "decimals": 18,
+      "name": "Dogechain Token",
+      "symbol": "DC",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
     },
     {
