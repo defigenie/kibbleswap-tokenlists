@@ -18,11 +18,11 @@
     },
     {
       "chainId": 2000,
-      "address": "0x8ffbd442f246964a0d2e87c9b2551095bda6eeb3",
+      "address": "0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3",
       "decimals": 18,
       "name": "Staked Kibble",
       "symbol": "sKIB",
-      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x8ffbd442f246964a0d2e87c9b2551095bda6eeb3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3/logo.png"
     },
     {
       "chainId": 2000,
